@@ -45,7 +45,7 @@ void main() {
 		break;
 	}
 	x = GetHead(Q);
-	printf("展示栈顶元素：%d\n", x);
+	printf("展示对头元素：%d\n", x);
 }
 
 Status InitQueue(SqQueue* Q) {
